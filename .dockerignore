@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+predictions.db
+*.db
+mlruns/
+.git/
+.gitignore
+src/data/raw/
